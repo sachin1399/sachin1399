@@ -80,7 +80,7 @@
 <!--Field Operations & Live Training with Students Photo-->
 <h2 align="center">📸 Fɪᴇʟᴅ Oᴘᴇʀᴀᴛɪᴏɴs & Lɪᴠᴇ Tʀᴀɪɴɪɴɢ</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachin1399/sachin1399/main/WhatsApp%20Image%202026-09-03%20at%2011.14.58%20AM.jpeg" width="85%" alt="Students Using Robots in Training" style="border-radius: 8px;" />
+  <img src="./WhatsApp Image 2026-09-03 at 12.58.02 PM.jpeg" width="85%" alt="Students Using Robots in Training" style="border-radius: 8px;" />
 </p>
 <p align="center">
   <em>Guiding students and children hands-on with real-world robotics and interactive hardware modules.</em>
