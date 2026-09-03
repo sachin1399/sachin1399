@@ -1,99 +1,204 @@
-# 🚀 **SACHIN**
-### **Full-Stack Developer | Python & AI Enthusiast | Robotics Expert**
+<!--Banner with Training Photo, Name, Mail & Portfolio -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachin1399/sachin1399/main/WhatsApp%20Image%202026-09-03%20at%2011.14.59%20AM.jpeg" width="100%" alt="Sachin Robotics Training Banner" style="border-radius: 8px;" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Building+Next-Gen+Web+Apps;Automating+with+Python;Innovating+Robotics+Solutions;Exploring+AI+Integrations" alt="Typing SVG" />
+<div align="center">
+  <h1>🤖 ɪ'ᴍ sᴀᴄʜɪɴ!</h1>
+  <p><b>Robotics Trainer & Full-Stack Developer</b></p>
+  <p>
+    ✉️ <a href="mailto:sachin220231153@gmail.com">sachin220231153@gmail.com</a> &nbsp;|&nbsp; 
+    🌐 <a href="https://sachin1399.github.io/portfolio/">Visit My Portfolio</a>
+  </p>
+</div>
+
+---
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Start Intro-->                         
+<p align="left">I am a Robotics Trainer and Full-Stack Developer with a huge passion for Python, JavaScript, Arduino C++, RDBMS, and Hardware Integration. </p>
+
+- 🌱 Student of life :)
+- 💡 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🤖 Robotics Trainer at [The Smart Mind AI Lab](https://sachin1399.github.io/portfolio/) in Mumbai, guiding students through advanced automation projects like the **Hexa City / Smart City model**.
+- 🚀 Writing technical code and bridging the gap between software and hardware.
+- 💻 Visit my [Portfolio](https://sachin1399.github.io/portfolio/) for more details about me.
+- ✉️ Reach me out at [sachin220231153@gmail.com](mailto:sachin220231153@gmail.com).
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sachin1399&label=Profile%20views&color=00f7ff&style=for-the-badge&logo=star" alt="Sachin" style="padding-right:20px;" />
 </p>
 
 ---
 
-## 📞 Contact Information
-- **Phone:** +91 9871293070[cite: 1]
-- **Email:** [Sachin220231153@gmail.com](mailto:Sachin220231153@gmail.com)[cite: 1]
-- **LinkedIn:** [Connect on LinkedIn] | **GitHub:** [View GitHub Profile][cite: 1]
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiran1689/Kiran1689/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiran1689/Kiran1689/main/Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="https://raw.githubusercontent.com/Kiran1689/Kiran1689/main/Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Artificial Intelligence and Machine Learning (AI & ML).</li>
+  <li>Exploring advanced C++ programming and sensor architectures for Arduino and ESP microcontrollers.</li>
+  <li>Improving my skills in full-stack web architectures and cloud-based deployments.</li>
+</ul>
+  
+<h3 align="left">HackerRank Badges & Achievements</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem_Solving-Gold_(1126_Pts)-orange?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Gold_(433_Pts)-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Bronze_(10_Pts)-blue?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Language-Bronze-lightblue?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_(Basic)-Verified_(ID:_5D1AC2FA43A3)-success?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_(Basic)-Verified_(ID:_5F66B61ECA14)-success?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+<br />
+<br />
+<br />
+<br />
+
+<!--Professional Experience Section-->
+<h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Cʜʀᴏɴɪᴄʟᴇs (Exᴘᴇʀɪᴇɴᴄᴇ)</h2>
+<ul>
+  <li><b>The Smart Mind AI Lab</b> (Robotics Trainer | June 7, 2026 – Present | Mumbai): Directing hands-on training sessions on core robotics concepts, sensor integration, and C++ programming for Arduino/ESP projects. Guiding advanced automation layouts like the Hexa City / Smart City model.</li>
+  <li><b>Tech Bharat Innovation</b> (Robotic Training Expert Intern | April 2026 – June 2026 | Gujarat): Delivered practical guidance on robotics components and microcontrollers for 100+ daily trainees across concurrent batches.</li>
+  <li><b>Q-Spiders</b> (Full-Stack Web Development Intern | Sep 2025 – Dec 2025 | Noida): Completed an intensive program emphasizing advanced front-end architectures and backend integration.</li>
+  <li><b>CodSoft</b> (Python Programming Intern | July 2025 – Aug 2025 | Virtual): Built CRUD To-Do List applications and secure password generators.</li>
+</ul>
+<br />
+
+<!--Field Operations & Live Training with Students Photo-->
+<h2 align="center">📸 Fɪᴇʟᴅ Oᴘᴇʀᴀᴛɪᴏɴs & Lɪᴠᴇ Tʀᴀɪɴɪɴɢ</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachin1399/sachin1399/main/WhatsApp%20Image%202026-09-03%20at%2011.14.58%20AM.jpeg" width="85%" alt="Students Using Robots in Training" style="border-radius: 8px;" />
+</p>
+<p align="center">
+  <em>Guiding students and children hands-on with real-world robotics and interactive hardware modules.</em>
+</p>
+<br />
+
+<!--Featured Hardware & System Projects-->
+<h2 align="center">🏙️ Fᴇᴀᴛᴜʀᴇᴅ Hᴀʀᴅᴡᴀʀᴇ & Sʏsᴛᴇᴍ Pʀᴏᴊᴇᴄᴛs</h2>
+<table width="100%">
+  <tr>
+    <td width="33%"><strong>🌆 Hexa City (Smart City)</strong><br />Arduino UNO, ESP8266, Sensors, LDR, Servos. Automated smart parking, traffic lights, and toll plaza.</td>
+    <td width="33%"><strong>🎙️ Speak Engine</strong><br />Python, SpeechRecognition, OpenAI, gTTS. AI-powered voice assistant for task automation.</td>
+    <td width="33%"><strong>🃏 CodeComic</strong><br />Python, Pyjokes, AI, VS Code. Interactive desktop app for programming jokes.</td>
+  </tr>
+</table>
+<br />
+
+<!--Certifications Section-->
+<h2 align="center">📜 Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs & Aᴄᴀᴅᴇᴍɪᴄs</h2>
+<ul align="left">
+  <li>🎓 <b>Python for Data Science (Elite)</b> – IIT Madras / MoE Govt. of India (Jan 2026 – Feb 2026)</li>
+  <li>🐍 <b>Python (Basic)</b> – HackerRank Verified [ID: 5D1AC2FA43A3] (16 Apr, 2025)</li>
+  <li>🗄️ <b>SQL (Basic)</b> – HackerRank Verified [ID: 5F66B61ECA14] (16 Apr, 2025)</li>
+  <li>⚡ <b>Hackathon Participant</b> – Team Hustle Coder in Adobe Hackathon (Aug 2025)</li>
+  <li>🎓 <b>B.Tech in Computer Science & Engineering (AI & ML)</b> – AKTU, Lucknow (2022–2026)</li>
+</ul>
+<br />
+
+<!--Trophies Section (Cleaned up - Question marks removed)-->    
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/sachin1399">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=sachin1399&no-bg=true&row=1&column=3&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=sachin1399&no-bg=true&row=1&column=3&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=sachin1399&no-bg=true&no-frame=true&row=1&column=3&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sachin1399">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sachin1399&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sachin1399">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sachin1399&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sachin1399">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sachin1399&repo=portfolio&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Portfolio Pin" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏns</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sachin1399">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=sachin1399&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin1399&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-## 🎓 Education
-**Bachelor of Technology in Computer Science and Engineering (AI & ML)**  
-*Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow* • 2022 - 2026[cite: 1]  
+<!--Thought of the day--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sachin&quote=Technology%20is%20best%20when%20it%20brings%20people%20together%20and%20solves%20real-world%20challenges.%20From%20code%20to%20circuits%2C%20keep%20building%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<br />
 
-**Intermediate**  
-*Central Board of Secondary Education (CBSE)* • May 2021 - March 2022[cite: 1]   
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:sachin220231153@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
 
-**Matriculation**  
-*Central Board of Secondary Education (CBSE)* • May 2019 - March 2020[cite: 1]   
+<a href="https://www.linkedin.com" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://www.github.com/sachin1399" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
 
-## 💼 Professional Experience
-
-### 🤖 **Tech Bharat Innovation** 
-**Robotic Training Expert Intern** • April 2026 - June 2026 (Gujarat)[cite: 1]  
-- Delivered structured, hands-on guidance on robotics concepts, hardware assembly, and microcontrollers[cite: 1].
-- Managed technical robotics training for 100+ trainees daily, splitting instruction across concurrent batches[cite: 1].
-
-### 💻 **Q-Spiders**
-**Full-Stack Web Development Intern** • Sep 2025 - December 2025 (Noida Sector 16)[cite: 1]  
-- Completed an intensive 4-month program focusing on advanced front-end architectures and back-end integration[cite: 1].
-- Participated in high-pressure coding sessions, troubleshooting complex full-stack bugs and refactoring code under tight deadlines[cite: 1].
-
-### 🐍 **CodSoft**
-**Python Programming Intern** • July 2025 - August 2025 (Virtual)[cite: 1]  
-- Built a complete To-Do List application implementing full CRUD operations using Python data structures[cite: 1].
-- Developed a standalone Password Generator script utilizing string manipulation for secure randomized passwords[cite: 1].
-
----
-
-## 🚀 Featured Projects
-
-### 🎙️ Speak Engine
-*Python, SpeechRecognition, OpenAI, gTTS* • May 2025[cite: 1]  
-- Built an AI-powered virtual assistant using voice commands powered by OpenAI's GPT[cite: 1].
-- Engineered the complete voice interaction framework leveraging SpeechRecognition and gTTS/pygame[cite: 1].
-
-### 🃏 CodeComic
-*Python, Pyjokes, AI, VS Code* • May 2025[cite: 1]  
-- Created an interactive desktop application delivering programming jokes dynamically[cite: 1].
-- Integrated third-party Python libraries to build a fun utility tool[cite: 1].
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming & Database Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Developer Tools & Hardware**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **AI-Assisted Development Tools**
-- **GitHub Copilot** • **DeepSeek** • **Perplexity** • **Google Antigravity**[cite: 1]
-
----
-
-## 📜 Certifications & Achievements
-- **Python for Data Science (Elite)** • *IIT Madras / MoE Govt. of India* (Jan 2026 - Feb 2026)[cite: 1]
-- **Hackathon** • Participated in Adobe Hackathon with "Team Hustle Coder" (Aug 2025)[cite: 1]
-- **Deloitte Data Analytics Virtual Job Simulation** • Simulated real-world client projects (June 2025)[cite: 1]
-- **Python (Basic) Skill Certification** • HackerRank verified (April 2025)[cite: 1]
-
----
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sachin220231153@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin&theme=radical)
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
