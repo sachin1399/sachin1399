@@ -1,6 +1,6 @@
 <!--Banner with Training Photo, Name, Mail & Portfolio -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachin1399/sachin1399/main/WhatsApp%20Image%202026-09-03%20at%2011.14.59%20AM.jpeg" width="100%" alt="Sachin Robotics Training Banner" style="border-radius: 8px;" />
+  <img src="./banner.jpeg" width="100%" alt="Sachin Robotics Training Banner" style="border-radius: 8px;" />
 </div>
 
 <div align="center">
